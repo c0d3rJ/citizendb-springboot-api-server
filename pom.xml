@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.c0d3rj</groupId>
     <artifactId>citizen-server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>citizen-server</name>
     <description>citizen-server</description>
     <properties>
